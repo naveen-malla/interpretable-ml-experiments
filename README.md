@@ -5,7 +5,7 @@ This repository contains controlled experiments that study how feature design an
 ## Repository Structure
 
 ```
-model-behavior-lab/
+.
 ├── README.md
 ├── experiments/
 │   └── appointment-adherence/
@@ -40,6 +40,8 @@ model-behavior-lab/
    ```bash
    python experiments/appointment-adherence/run_experiment.py
    ```
+   Outputs include model summaries, explanation sanity checks, and data/model/logic validation tables under
+   `experiments/appointment-adherence/outputs/`.
 
 ## License
 
