@@ -15,3 +15,5 @@ python run_experiment.py
 ```
 
 Outputs are written to the `outputs/` directory, including explanation tables and narrative examples.
+Additional outputs include dataset, feature, prediction, and logic check tables for debugging the synthetic
+data and model behavior.
